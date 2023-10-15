@@ -354,6 +354,11 @@ input[type="submit"] {
         margin-bottom: 50px;
     }
 
+    .clientes{
+        display: flex;
+        justify-content: center;
+    }
+
     .clientes img{
         border-radius: 10%;
     }
